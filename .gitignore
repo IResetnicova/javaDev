@@ -33,6 +33,7 @@ build/
 .vscode/
 
 /Test.java/
-/logs.xml/
+/src/main/logs/
+
 
 
